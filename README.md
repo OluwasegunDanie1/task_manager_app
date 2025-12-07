@@ -1,16 +1,52 @@
-# mytaskapp
+# Task Manager App 📝
 
-A new Flutter project.
+A simple and clean **Flutter** mobile app to create, manage, and track daily tasks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Add, edit, and delete tasks  
+- Mark tasks as completed  
+- Local storage using **SharedPreferences**  
+- Clean and responsive UI  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- Flutter (Dart)  
+- Provider (State Management)  
+- SharedPreferences (Local Storage)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+Add Task Screen:
+![ADD TASK SCREEN](images/NEWtASK.png)
+
+Home Screen:
+![HOME TASK SCREEN](images/TASKSCREEN.png)
+
+Scheduled Screen:
+![CALENDER SCREEN](images/CALENDER.png)
+
+---
+
+## 🔧 How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/OluwasegunDanie1/task_manager_app.git
+
+
+cd task_manager_app
+
+flutter pub get
+
+flutter run
+
+📫 Contact
+
+GitHub: OluwasegunDanie1
+
+Email: dandev914@gmail.com 
+
+
